@@ -1,0 +1,23 @@
+Kermit	Twin sized beds w/ streaming services, Video games.	1
+John	Queen size bed w/ streaming services, Video games.	5
+Hadji	Queen size bed	3
+law	King size bed w/ streaming services, Video games	4
+Josh	Queen size bed w/ streaming services, Video games	5
+Kis	Twin sized beds	0
+Jos	King size bed w/ streaming services, Video games	4
+Elmo	King size bed w/ streaming services, Video games	4
+Gojo	King size bed w/ streaming services, Video games	4
+Jo	Twin sized beds	0
+Aleng Basyang	Twin sized beds	0
+Joshua	Twin sized beds	0
+Js	Twin sized beds	0
+Rei	Queen size bed	3
+Frank	Queen size bed w/ streaming services, Video games	4
+John	Twin sized beds	0
+K	Twin sized beds	0
+John	Twin sized beds	0
+Lebron James	King size bed	2
+Lebron James	King size bed	2
+Albert Einstein	Queen size bed w/ streaming services, Video games	4
+Lebron James	King size bed	2
+Albert Einstein	Queen size bed w/ streaming services, Video games	4
